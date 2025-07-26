@@ -5,6 +5,14 @@
 * NordVPN
 * ProtonVPN
 
+## TODO
+
+* openproxylist[.]com/openvpn/
+* surfshark[.]com
+* expressvpn[.]com
+* cyberghostvpn[.]com
+* norton[.]com
+
 ## But Why?
 
 Occasionally, you may find yourself conducting an investigation into authorized users accessing corporate resources from mobile devices. Sometimes, these users utilize consumer VPN services, which inherently is not problematic but complicates investigations when alerts indicate resource access from unusual locations.
