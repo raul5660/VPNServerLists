@@ -4,10 +4,10 @@
 
 * NordVPN
 * ProtonVPN
+* OpenProxyList
 
 ## TODO
 
-* openproxylist[.]com/openvpn/
 * surfshark[.]com
 * expressvpn[.]com
 * cyberghostvpn[.]com
